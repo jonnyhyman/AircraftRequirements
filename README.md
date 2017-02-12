@@ -4,3 +4,5 @@ This code analyzes the range, endurance, and performance of an aircraft given si
 The code can be modified easily for optimization studies and change of aircraft parameters.
 
 Documentation is provided mostly in the code.
+
+- Note: AeroData.py supplies aerodynamic characteristics. Specifically, Coefficient of Lift & Drag w.r.t. angle of attack
