@@ -5,4 +5,5 @@ The code can be modified easily for optimization studies and change of aircraft 
 
 Documentation is provided mostly in the code.
 
-- Note: AeroData.py supplies aerodynamic characteristics. Specifically, Coefficient of Lift & Drag w.r.t. angle of attack
+- AeroData.py supplies aerodynamic characteristics. Specifically, Coefficient of Lift & Drag w.r.t. angle of attack
+- MinFlightE.py stands for "minimum flight energy", the original name I gave to this study. Parameters must be changed inline, not during runtime. (easy to change this though)
